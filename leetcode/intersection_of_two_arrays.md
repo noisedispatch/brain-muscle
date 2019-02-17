@@ -4,7 +4,7 @@ https://leetcode.com/problems/intersection-of-two-arrays/
 
 # Solution
 
-## Hash Set for fast look up.
+**Hash Set for fast look up**
 
 ```java
 public int[] intersection(int[] nums1, int[] nums2) {
